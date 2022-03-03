@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@chakra-ui/button": "^1.5.8",
+    "@chakra-ui/form-control": "^1.5.9",
+    "@chakra-ui/input": "^1.4.4",
+    "@chakra-ui/layout": "^1.7.7",
     "@chakra-ui/react": "^1.7.2",
     "@emotion/react": "^11",
     "@emotion/styled": "^11",
